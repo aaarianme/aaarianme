@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaarianme
-- 👀 I’m interested in coding/programming, not in love with front end stuff though :)
-- 🌱 I’m currently learning ReactJS
-- 📫 Reach me at aaarianbiz@gmail.com
+- 👀 I’m interested in programming, chess and table tennis!
+- 🌱 I’m currently learning Advanced ReactJS
+- 📫 Reach me at aaarianme@gmail.com
 
 <!---
 aaarianme/aaarianme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

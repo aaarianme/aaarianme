@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aaarianme
-- 👀 I’m interested in programming, chess and table tennis!
-- 🌱 I’m currently learning Advanced ReactJS
+- 👋 Hi, I’m Arian
+- 🌱 I’m currently learning React
 - 📫 Reach me at aaarianme@gmail.com
 
 <!---

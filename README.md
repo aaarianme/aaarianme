@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Arian
-- 🌱 I’m currently learning React
 - 📫 Reach me at aaarianme@gmail.com
 
 <!---

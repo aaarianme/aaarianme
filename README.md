@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arian
-- 📫 Reach me at itsaaarian@gmail.com
+- 📫 Reach me at aaarianme.online@gmail.com
 
 <!---
 aaarianme/aaarianme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
